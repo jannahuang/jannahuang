@@ -12,9 +12,9 @@
   <img src="https://img.shields.io/badge/-Apache%20ECharts-A80030?style=flat-square&logo=Apache%20ECharts&logoColor=white"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jannahuang&layout=compact&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jannahuang&layout=compact&theme=vue&hide_border=true)
 
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=jannahuang&show_icons=true&hide_border=true&theme=default)
+![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=jannahuang&show_icons=true&hide_border=true&theme=vue)
 
 
 <!--
